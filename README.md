@@ -11,12 +11,19 @@ The system demonstrates intelligent automation concepts used in Industry 4.0 and
 🧠 Technologies Used
 
 Computer Vision
+
 OpenCV
+
 Arduino Programming
+
 Embedded Systems
+
 Servo Motor Control
+
 Serial Communication
+
 Automation & Robotics
+
 
 🧩 Hardware Components
 | Component         | Purpose                    |
@@ -31,18 +38,27 @@ Automation & Robotics
 💻 Software Requirements
 
 Python
+
 OpenCV
+
 Arduino IDE
+
 PySerial
 
 ⚙️ Working Principle
 
 Webcam captures live video feed.
+
 OpenCV processes the image.
+
 Objects are detected and classified.
+
 Python sends classification data to Arduino through serial communication.
+
 Arduino controls servo motors.
+
 Robotic arm picks the object.
+
 Object is placed into the correct sorting bin
 
 🔌 System Architecture
@@ -52,54 +68,84 @@ Camera → OpenCV Processing → Classification → Serial Communication → Ard
 📊 Features
 
 Real-time object detection
+
 Automated object sorting
+
 Vision-guided robotic movement
+
 Low-cost implementation
+
 Easy scalability for industrial applications
+
 
 🚨 Applications
 
 Industrial automation
+
 Smart manufacturing
+
 Packaging systems
+
 Recycling systems
+
 Warehouse sorting
+
 Educational robotics projects
+
 
 ⚠️ Challenges
 
 Lighting affects image detection accuracy
+
 Servo calibration required
+
 Limited object classification capability
+
 Camera positioning impacts performance
+
 
 
 🔮 Future Scope
 
 AI/ML-based object recognition
+
 Conveyor belt integration
+
 IoT-enabled monitoring
+
 Multi-object detection
+
 Wireless robotic control
+
 Upgrading to 6-DOF robotic arm
+
 
 🛠️ Skills Gained
 
 Computer Vision with OpenCV
+
 Embedded Systems Programming
+
 Arduino Interfacing
+
 Robotics & Automation
+
 Serial Communication
+
 Servo Motor Control
+
 
 
 👩‍💻 Team
 
 Dishika G
+
 Gurupriyaa N
 
 📚 References
 
 Arduino Official Documentation
+
 OpenCV Documentation
+
 Research Papers on Vision Guided Robotics
